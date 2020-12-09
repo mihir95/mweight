@@ -6,6 +6,8 @@ X = ("MAEGEITTFTALTEKFNLPPGNYKKPKLLYCSNGGHFLRILPDGTVDGT"
 
 
 y = 'test'
+z = 'test dev'
 print(X)
 print(y)
+print(z)
 
